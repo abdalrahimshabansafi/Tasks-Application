@@ -1,0 +1,34 @@
+<resources>
+    <string name="delete_confirmation">Confirmation</string>
+    <string name="sureToDelete">هل أنت متأكد أنك تريد حذف التذكير</string>
+    <string name="yes">نعم, متأكد</string>
+    <string name="no">لا</string>
+    <string name="confirmation">اكتمل التذكير!</string>
+    <string name="sureToMarkAsComplete">هل أنت متأكد أنك تريد وضع علامة على هذا التذكير كمكتمل.</string>
+    <string name="congrats_you_have_completed_the_task_successfully">مبارك!</string>
+    <string name="congrats_you_have_completed_the_task_successfsully">لقد أكتمل التذكير بنجاح</string>
+
+    <string name="app_name">Adhkar</string>
+    <string name="home_text">كل ما عليك هو منح التطبيق بعض صلاحيات النظام</string>
+    <string name="start_now">إبدأ الأن</string>
+    <string name="start_now_create">التذكيرات الخاصة بي</string>
+    <string name="start_now_create_dis"> قائمة كل التذكيرات التي خصصتها سابقاً</string>
+    <string name="start_now_create_dat">ــــــــــــــ  اختر تاريخاً ووقتاً يظهر فيه تذكيرك  ــــــــــــــ</string>
+    <string name="start_rimind">إبدأ بتذكيري</string>
+    <string name="start_rimindnew">أنشىء تذكير جديد</string>
+    <string name="start_rimindnewa">أنشىء التذكير</string>
+    <string name="start_riminddnew"> قم بتعبئة الحقول التالية بالشكل الصحيح وفق النوع</string>
+    <string name="adhkari_application">Adhkari Application</string>
+    <string name="name">تطــبيق أذكاري</string>
+    <string name="title">عنوان التذكير</string>
+    <string name="message">محتوى التذكير</string>
+    <string name="date">تاريخ التذكير</string>
+    <string name="time">وقت التذكير</string>
+    <string name="note">أضف حدثاً في التذكير</string>
+    <string name="schedule_notification">جدولة التذكير</string>
+    <string name="todo">TODO</string>
+    <string name="showall">رؤية كل التذكيرات</string>
+    <string name="completed">COMPLETED</string>
+    <string name="nov">Nov</string>
+    <string name="tue">Tue</string>
+</resources>
