@@ -11,7 +11,7 @@ Implimntaions :
 - Lottei Files
 - Room database
 - Glide
-- Calendar View
+- Calendar Views
 
 
 ![OWINJ61](https://user-images.githubusercontent.com/96925663/226141005-80582903-26cc-4906-967c-b9161b7706f4.png)
